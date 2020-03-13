@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Shop -->
+
+<list>
+  <!-- Top ls 76 -->
+  <item id="1">
+	<ingredient id="6392" count="30"/>
+	<production id="8762" count="3"/>
+  </item> 
+ 
+ <item id="2">
+<ingredient id="6392" count="15"/>
+    <production id="8752" count="3"/>
+  </item> 
+ 
+    <item id="3">
+<ingredient id="6392" count="40"/>
+    <production id="961" count="3"/>
+  </item>
+  
+  <item id="4">
+<ingredient id="6392" count="20"/>
+    <production id="962" count="3"/>
+  </item>
+  
+  <item id="5">
+<ingredient id="6392" count="20"/>
+    <production id="732" count="3"/>
+  </item>
+ 
+     <item id="6">
+    <ingredient id="6392" count="15"/>
+    <production id="950" count="3"/>
+  </item>  
+  
+  <item id="7">
+<ingredient id="6392" count="10"/>
+    <production id="6622" count="1"/>
+  </item>  
+  
+  <item id="8">
+<ingredient id="6392" count="200"/>
+    <production id="3481" count="1"/>
+  </item> 
+<item id="9">
+<ingredient id="6392" count="60"/>
+    <production id="4423" count="1"/>
+  </item>
+  <item id="10">
+<ingredient id="6392" count="10"/>
+    <production id="5168" count="100"/>
+  </item>
+  
+    <item id="11">
+<ingredient id="6392" count="1"/>
+    <production id="5858" count="2"/>
+	
+  </item>
+    <item id="12">
+<ingredient id="6392" count="1"/>
+    <production id="5859" count="2"/>
+  </item>
+    
+</list>

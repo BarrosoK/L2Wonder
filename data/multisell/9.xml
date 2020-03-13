@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Soulshot: S-grade -->
+		<!-- Scroll buff -->
+	<item id="1">
+		<ingredient id="3490" count="10"/>
+		<production id="9152" count="1"/>
+	</item>
+	<!-- Scroll buff -->
+	<item id="2">
+		<ingredient id="3490" count="10"/>
+		<production id="9153" count="1"/>
+	</item>
+	<!-- Scroll buff -->
+	<item id="3">
+		<ingredient id="3490" count="10"/>
+		<production id="9155" count="1"/>
+	</item>
+	<item id="4">
+       <ingredient id="3490" count="10"/>
+       <production id="8627" count="1"/>
+    </item>
+
+    <item id="5">
+       <ingredient id="3490" count="10"/>
+       <production id="8639" count="1"/>
+    </item>
+   <item id="6">   
+    <ingredient id="3490" count="30"/>
+    <production id="8762" count="5"/>
+  </item>
+  
+   <item id="7">   
+    <ingredient id="3490" count="20"/>
+    <production id="6622" count="5"/>
+  </item>
+  
+  <item id="8">   
+    <ingredient id="3490" count="30"/>
+    <production id="5592" count="300"/>
+  </item>
+  <item id="9">   
+    <ingredient id="3490" count="300"/>
+    <production id="3481" count="1"/>
+  </item>
+</list>

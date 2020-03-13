@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- MAGE TATTOOS -->
+
+<list>
+  <!-- Egg of Earth: A-Grade -->
+  <item id="1">
+    <ingredient id="1159" count="10"/>
+    <production id="492" count="1"/>
+  </item>
+
+  <!-- Cradle of Creation -->
+  <item id="2">
+  <ingredient id="492" count="1"/>
+    <ingredient id="1159" count="50"/>
+    <production id="485" count="1"/>
+  </item>
+
+  <!-- False Nucleus of Life: A-Grade -->
+  <item id="3">
+  <ingredient id="485" count="1"/>
+    <ingredient id="1159" count="100"/>
+    <production id="487" count="1"/>
+  </item>
+  
+  <item id="4">
+  <ingredient id="487" count="1"/>
+    <ingredient id="1159" count="200"/>
+    <production id="489" count="1"/>
+  </item>
+  <item id="5">
+  <ingredient id="489" count="1"/>
+    <ingredient id="1159" count="500"/>
+    <production id="491" count="1"/>
+  </item> 
+</list>

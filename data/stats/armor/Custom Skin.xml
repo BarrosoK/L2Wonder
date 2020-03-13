@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='15000' name="RedDragon Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15001' name="BlueDragon Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15002' name="Assasin Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15003' name="Anakim Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15004' name="Beleth Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15005' name="Ninja Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15006' name="Vampire Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15007' name="Military Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15008' name="Pirate Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15009' name="Musketeer Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15010' name="School Uniform Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15011' name="Excelsis Burzum Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15017' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15018' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15019' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15020' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15021' name="Christmas Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15001' name="Shadow Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15002' name="Assasin Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15003' name="Anakim Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15004' name="Beleth Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15005' name="Ninja Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15006' name="Vampire Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15007' name="Military Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15008' name="Pirate Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15009' name="Musketeer Armor Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15010' name="School Uniform Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15011' name="Excelsis Burzum Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15017' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15018' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15019' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15020' name="Chinese Qipao Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='15021' name="Christmas Set">
+  <for>
+   <add stat='pDef' order='0x10' val='0'/>
+   <add stat='maxHp' order='0x40' val='0'>
+     <and>
+       <using slotitem="2414;6"/>
+     </and>
+   </add>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+</list>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+	  <item id="1">   
+    <ingredient id="4037" count="2"/>
+    <production id="8918" count="1"/>
+  </item>
+   <item id="2">   
+    <ingredient id="4037" count="2"/>
+    <production id="8919" count="1"/>
+  </item>
+   <item id="3">   
+    <ingredient id="4037" count="2"/>
+    <production id="8922" count="1"/>
+  </item>
+   <item id="4">   
+    <ingredient id="4037" count="2"/>
+    <production id="8563" count="1"/>
+  </item>
+   <item id="5">   
+    <ingredient id="4037" count="2"/>
+    <production id="8562" count="1"/>
+  </item>
+  <item id="6">   
+    <ingredient id="4037" count="10"/>
+    <production id="9373" count="1"/>
+  </item>
+  <item id="7">   
+    <ingredient id="4037" count="10"/>
+    <production id="9375" count="1"/>
+  </item>
+  <item id="8">   
+    <ingredient id="4037" count="10"/>
+    <production id="9376" count="1"/>
+  </item>
+  <item id="9">   
+    <ingredient id="4037" count="10"/>
+    <production id="9377" count="1"/>
+  </item>
+  <item id="10">   
+    <ingredient id="4037" count="10"/>
+    <production id="9378" count="1"/>
+  </item>
+  <item id="11">   
+    <ingredient id="4037" count="10"/>
+    <production id="9379" count="1"/>
+  </item>
+  <item id="12">   
+    <ingredient id="4037" count="10"/>
+    <production id="9380" count="1"/>
+  </item>
+  <item id="13">   
+    <ingredient id="4037" count="10"/>
+    <production id="9381" count="1"/>
+  </item> 
+  
+  <!-- Special Jester Hat -->
+  <item id="14">
+    <ingredient id="4037" count="10"/>
+    <production id="10021" count="1"/>
+  </item>
+   
+  <!-- Santas Green Hat -->
+  <item id="15">
+    <ingredient id="4037" count="10"/>
+    <production id="10026" count="1"/>
+  </item>
+ 
+  <!-- Mph Beret -->
+  <item id="16">
+    <ingredient id="4037" count="10"/>
+    <production id="10030" count="1"/>
+  </item>
+  
+  <!-- Razvedka Beret -->
+  <item id="17">
+    <ingredient id="4037" count="10"/>
+    <production id="10031" count="1"/>
+  </item>
+  
+  <!-- Russia Beret -->
+  <item id="18">
+    <ingredient id="4037" count="10"/>
+    <production id="10032" count="1"/>
+  </item>
+  
+  <!-- Spec Beret -->
+  <item id="19">
+    <ingredient id="4037" count="10"/>
+    <production id="10033" count="1"/>
+  </item>
+  
+  <!-- SSSR Beret -->
+  <item id="20">
+    <ingredient id="4037" count="10"/>
+    <production id="10034" count="1"/>
+  </item>
+  
+  <!-- VDV Beret -->
+  <item id="21">
+    <ingredient id="4037" count="10"/>
+    <production id="10035" count="1"/>
+  </item>
+  
+  <!-- Gas Mask -->
+  <item id="22">
+    <ingredient id="4037" count="10"/>
+    <production id="10036" count="1"/>
+  </item>
+  
+  
+  <!-- Beany Hat -->
+  <item id="23">
+    <ingredient id="4037" count="10"/>
+    <production id="10038" count="1"/>
+  </item>
+  
+  <!-- Chef Hat -->
+  <item id="24">
+    <ingredient id="4037" count="10"/>
+    <production id="10039" count="1"/>
+  </item>
+  
+  <!-- White Priest Hat -->
+  <item id="25">
+    <ingredient id="4037" count="10"/>
+    <production id="10040" count="1"/>
+  </item>
+  
+  <!-- Black Priest Hat -->
+  <item id="26">
+    <ingredient id="4037" count="10"/>
+    <production id="10041" count="1"/>
+  </item>
+  
+  <!-- Welder Hat -->
+  <item id="27">
+    <ingredient id="4037" count="10"/>
+    <production id="10042" count="1"/>
+  </item>
+  
+  <!-- Top Hat -->
+  <item id="28">
+    <ingredient id="4037" count="10"/>
+    <production id="10044" count="1"/>
+  </item>
+  
+  
+  <!-- Chic Silver Horn Cap -->
+  <item id="29">
+    <ingredient id="4037" count="10"/>
+    <production id="10046" count="1"/>
+  </item>
+   <!-- Chic Silver Horn Cap -->
+  <item id="30">
+    <ingredient id="4037" count="10"/>
+    <production id="10047" count="1"/>
+  </item>
+
+   <!-- Chic Silver Horn Cap -->
+  <item id="31">
+    <ingredient id="4037" count="10"/>
+    <production id="10049" count="1"/>
+  </item>
+   <!-- Chic Silver Horn Cap -->
+  <item id="32">
+    <ingredient id="4037" count="10"/>
+    <production id="10050" count="1"/>
+  </item>
+</list>

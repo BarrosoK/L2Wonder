@@ -1,0 +1,457 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='19810' name="Raid Skin Spear">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/><mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19825' name="Raid Skin Spear">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/><mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19835' name="Raid Skin Spear">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Haste -->
+    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> 
+  <mul val='1.05' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> 
+  <mul val='1.05' order='0x30' stat='mAtk'/>
+  </for>
+</item>
+<item id='19809' name="Raid Skin Blade">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Haste -->
+    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/><mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19824' name="Raid Skin Blade">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/><mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19834' name="Raid Skin Blade">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Focus -->
+    <add val='64' order='0x40' stat='rCrit'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+
+
+<item id='19807' name="Raid Skin Dirk">
+<for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <!-- We have SA on SQL -->
+    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
+    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19822' name="Raid Skin Dirk">
+<for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- add absorbHP SA -->
+    <!-- We have SA on SQL -->
+	<!-- <add val='8' order='0x40' stat='absorbDam'/> -->
+    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
+    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19832' name="Raid Skin Dirk">
+<for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+   <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>-->
+  <!--  <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>-->
+    <!-- SA: Haste -->
+    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+
+<item id='19813' name="Raid Skin Axe">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<!-- add absorb hp SA -->
+	<!-- We have SA on SQL -->
+	<!-- <add val='8' order='0x40' stat='absorbDam'/> -->
+    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
+    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19828' name="Raid Skin Axe">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19838' name="Raid Skin Axe">
+<for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+
+<item id='19806' name="Raid Skin BigSword">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Haste -->
+    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19821' name="Raid Skin BigSword">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Focus -->
+    <add val='84' order='0x40' stat='rCrit'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19831' name="Raid Skin BigSword">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+
+<item id='19919' name="Raid Skin Spitter">
+ <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: Cheap Shot -->
+    <set val='1' order='0x08' stat='MpConsume'> 
+       <and>
+          <game skill="false" chance="26"/> 
+       </and> 
+    </set>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19930' name="Raid Skin Spitter">
+<for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19940' name="Raid Skin Spitter">
+<for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Focus -->
+    <add val='88' order='0x40' stat='rCrit'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+
+<item id='19811' name="Raid Skin Mace">
+<for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA always used in skill add -->
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+<item id='19826' name="Raid Skin Mace">
+<for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> 
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+<item id='19836' name="Raid Skin Mace">
+  <for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+
+<item id='19815' name="Raid Skin Fists">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA: Focus -->
+    <add val='80' order='0x40' stat='rCrit'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19829' name="Raid Skin Fists">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19839' name="Raid Skin Fists">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+<item id='19812' name="Raid Skin Staff">
+<for>
+    <set val='274' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+    <!-- SA always used in skill add -->
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19827' name="Raid Skin Staff">
+<for>
+    <set val='274' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> 
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+<item id='19837' name="Raid Skin Staff">
+<for>
+    <set val='274' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> <mul val='1.05' order='0x30' stat='mAtk'/></for>
+</item>
+
+<item id='19808' name="Raid Skin Twin Swords">
+<for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <mul val='1.15' order='0x30' stat='maxHp'>
+		<and>
+			<using slotitem="19808;14;4"/>
+		</and>
+	</mul>
+	<mul val='1.2' order='0x30' stat='maxMp'>
+		<and>
+			<using slotitem="19808;14;4"/>
+		</and>
+	</mul>
+    <mul val='1.3' order='0x30' stat='maxCp'>
+		<and>
+			<using slotitem="19808;14;4"/>
+		</and>
+	</mul>
+	<!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  <mul val='1.05' order='0x30' stat='pAtk'/> 
+  <mul val='1.05' order='0x30' stat='mAtk'/>
+  </for>
+</item>
+</list>

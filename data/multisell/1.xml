@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Farm Shop -->
+
+<list>
+  <!-- Egg of Earth: A-Grade -->
+  <item id="1">
+    <ingredient id="1159" count="300"/>
+	<ingredient id="57" count="100000"/>
+    <production id="5799" count="1"/>
+  </item>
+
+  <!-- Cradle of Creation -->
+  <item id="2">
+    <ingredient id="1159" count="300"/>
+	<ingredient id="57" count="100000"/>
+    <production id="108" count="1"/>
+  </item>
+
+  <!-- False Nucleus of Life: A-Grade -->
+  <item id="3">
+    <ingredient id="1159" count="300"/>
+	<ingredient id="57" count="100000"/>
+    <production id="8210" count="1"/>
+  </item>
+  
+  <item id="4">
+    <ingredient id="1159" count="300"/>
+	<ingredient id="57" count="100000"/>
+    <production id="6721" count="1"/>
+  </item>
+  <item id="5">
+    <ingredient id="1159" count="300"/>
+	<ingredient id="57" count="100000"/>
+    <production id="9844" count="1"/>
+  </item>
+  
+  <item id="6">
+    <ingredient id="1159" count="300"/>
+	<ingredient id="57" count="100000"/>
+    <production id="9845" count="1"/>
+  </item>
+</list>

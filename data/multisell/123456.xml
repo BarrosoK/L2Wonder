@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+   <item id="1">   
+    <ingredient id="4037" count="10"/>
+    <production id="3481" count="1"/>
+  </item>
+   <item id="2">   
+    <ingredient id="4037" count="2"/>
+    <production id="8762" count="5"/>
+  </item>
+   <item id="3">   
+    <ingredient id="4037" count="1"/>
+    <production id="8752" count="5"/>
+  </item>
+   <item id="4">   
+    <ingredient id="4037" count="1"/>
+    <production id="6622" count="5"/>
+  </item>
+   <item id="5">   
+    <ingredient id="4037" count="1"/>
+    <production id="961" count="1"/>
+  </item>
+  <item id="6">   
+    <ingredient id="4037" count="3"/>
+    <production id="962" count="4"/>
+  </item>
+  <item id="7">   
+    <ingredient id="4037" count="3"/>
+    <production id="732" count="4"/>
+  </item>
+  <item id="8">   
+    <ingredient id="4037" count="1"/>
+    <production id="950" count="4"/>
+  </item>
+  <item id="9">   
+    <ingredient id="4037" count="9"/>
+    <production id="6656" count="1"/>
+  </item>
+  <item id="10">   
+    <ingredient id="4037" count="10"/>
+    <production id="6657" count="1"/>
+  </item>
+  <item id="11">   
+    <ingredient id="4037" count="8"/>
+    <production id="6658" count="1"/>
+  </item>
+  <item id="12">   
+    <ingredient id="4037" count="7"/>
+    <production id="6659" count="1"/>
+  </item>
+  <item id="13">   
+    <ingredient id="4037" count="5"/>
+    <production id="6660" count="1"/>
+  </item>
+  <item id="14">   
+    <ingredient id="4037" count="8"/>
+    <production id="8191" count="1"/>
+  </item>
+  <item id="15">   
+    <ingredient id="4037" count="7"/>
+    <production id="4901" count="1"/>
+  </item>
+  <item id="16">   
+    <ingredient id="4037" count="7"/>
+    <production id="4900" count="1"/>
+  </item>
+  <item id="17">   
+    <ingredient id="4037" count="7"/>
+    <production id="4898" count="1"/>
+  </item>
+    <!-- Staff of Evil Spirits [Magic Focus] -->
+  <item id="18">
+    <ingredient id="4037" count="7"/>
+    <production id="4897" count="1"/>
+  </item>
+    <item id="19">   
+    <ingredient id="4037" count="1"/>
+    <production id="5592" count="300"/>
+  </item>
+     <item id="20">   
+    <ingredient id="4037" count="2"/>
+    <production id="6408" count="1"/>
+  </item>
+    <item id="21">
+    <ingredient id="4037" count="5"/>
+    <production id="5799" count="1"/>
+  </item>
+    <item id="22">
+    <ingredient id="4037" count="5"/>
+    <production id="8210" count="1"/>
+  </item>
+    <item id="23">
+    <ingredient id="4037" count="5"/>
+    <production id="6721" count="1"/>
+  </item>
+    <item id="24">
+    <ingredient id="4037" count="5"/>
+    <production id="9844" count="1"/>
+  </item>
+    <item id="25">
+    <ingredient id="4037" count="5"/>
+    <production id="9845" count="1"/>
+  </item> 
+    <item id="26">
+    <ingredient id="4037" count="10"/>
+    <production id="4423" count="1"/>
+  </item>
+  <item id="27">
+    <ingredient id="4037" count="20"/>
+    <production id="495" count="1"/>
+  </item>
+  <!-- Quest item Proof of Aspiration -->
+  <item id="28">
+    <ingredient id="4037" count="15"/>
+    <production id="17444" count="1"/>
+  </item>
+  <!-- Quest item Proof of Aspiration -->
+  <item id="29">
+    <ingredient id="4037" count="15"/>
+    <production id="17445" count="1"/>
+  </item>
+</list>

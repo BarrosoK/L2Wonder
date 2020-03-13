@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<item id="10019" name="First Mate's Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10020" name="Special Feathered Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10021" name="Special Jester Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10022" name="Special Wizard Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10023" name="Special Dapper Cap">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10024" name="Alien Mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10025" name="Doccabi Mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10026" name="Frank Mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10027" name="Abobora mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10028" name="Mumia Mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10029" name="Panic Mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10030" name="Santa's Red Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10031" name="Santa's Pink Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10032" name="Santa's Green Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10033" name="Santa's Blue Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10034" name="Santa's Yellow Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10035" name="Santa's Black Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10036" name="Mph Beret">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10037" name="Razvedka Beret">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10038" name="Russia Beret">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10039" name="Spec Beret">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10040" name="SSSR Beret">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10041" name="VDV Beret">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10042" name="Gas Mask">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10043" name="Hunter Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10044" name="Beany Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10045" name="Chef Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10046" name="White Priest Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10047" name="Black Priest Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10048" name="Miner Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10049" name="Top Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10050" name="Silver Feathered Hat">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10051" name="Chic Silver Horn Cap">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	<item id="10052" name="Chic Gold Horn Cap">
+		<for>
+ 			<add val="0" order="0x40" stat='pDef'/>
+ 			<add val="0" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+</list>

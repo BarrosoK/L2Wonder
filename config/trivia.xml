@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>          
+<trivia>
+    <question>What's the command you can use to change your costume visually?</question>
+    <answer>.dressme</answer>
+  </trivia> 
+  
+  <trivia>
+    <question>What's the command you can use to receive your vote reward?</question>
+    <answer>.vote</answer>
+  </trivia> 
+  
+  <trivia>
+    <question>What's the command you can use to enable/disable auto potions?</question>
+    <answer>.menu</answer>
+  </trivia>
+
+<trivia>
+    <question>With what type of 'message' are players supposed to contact GMs in-game?</question>
+    <answer>petition</answer>
+</trivia>
+
+<trivia>
+    <question>How many are the server's rules indicated in information manager in-game?</question>
+    <answer>7</answer>
+</trivia>
+
+ <trivia>
+    <question>What's the name of the skill that is used by the non-supportive mages which quickly heals them?</question>
+    <answer>Battle Heal</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the skill that a bishop mainly uses to Heal a singular target?</question>
+    <answer>Greater Battle Heal</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Cardinal's skill that revives himself or another immediately after death?</question>
+    <answer>Salvation</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the skill that supportive mages' use in order to delete the enemy's servitor?</question>
+    <answer>Erase</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the stronger version of the skill 'Sleep'?</question>
+    <answer>Trance</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the absolutely strongest heal skill?</question>
+    <answer>Benediction</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Phoenix Knight's skill that revives himself immediately after death?</question>
+    <answer>Soul of the Phoenix</answer>
+  </trivia>
+
+  <trivia>
+    <question>In which minimum level can you start the Wolf quest?(Get a Pet)</question>
+    <answer>15</answer>
+  </trivia>
+
+  <trivia>
+    <question>In which minimum level can you start the Hatchling quest?(Little Wing)</question>
+    <answer>35</answer>
+  </trivia>
+
+  <trivia>
+    <question>In which minimum level can you start the Strider quest?(Little Wing's Big Adventure)</question>
+    <answer>45</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the minimum level your Hatchling must be in order to become a strider via the Little Wing's Big Adventure quest??</question>
+    <answer>55</answer>
+  </trivia>
+
+  <trivia>
+    <question>In which minimum level can you start the Baby Kookaburra quest?(Help the Song!)</question>
+    <answer>24</answer>
+  </trivia>
+
+  <trivia>
+    <question>In which minimum level can you start the Baby Buffalo quest?(Help the Uncle!)</question>
+    <answer>25</answer>
+  </trivia>
+
+  <trivia>
+    <question>In which minimum level can you start the Baby Cougar quest?(Help the Sister!)</question>
+    <answer>24</answer>
+  </trivia>
+  
+  <trivia>
+    <question>What's the name of the Lineage2 town which is known for it's great music?</question>
+    <answer>Dion</answer>
+  </trivia>
+
+  <trivia>
+    <question>From which town do you start the Noblesse Quest?</question>
+    <answer>Aden</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the skill that Spellsinger's mainly use to hit singular targets from afar?</question>
+    <answer>Hydro Blast</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the skill that Sorcerer's mainly use to hit singular targets from afar?</question>
+    <answer>Prominence</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the skill that Spellhowler's mainly use to hit singular targets from afar?</question>
+    <answer>Hurricane</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your M. Attack temporarily? </question>
+    <answer>Empower</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your P. Attack temporarily?</question>
+    <answer>Might</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your P. Attack in PVP (only) temporarily?</question>
+    <answer>Duel Might</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your P. Def temporarily?</question>
+    <answer>Shield</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your M. Def temporarily?</question>
+    <answer>Magic Barrier</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your HP temporarily?</question>
+    <answer>Blessed Body</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your MP temporarily?</question>
+    <answer>Blessed Soul</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your CP temporarily?</question>
+    <answer>Cheer</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your Accuracy temporarily?</question>
+    <answer>Guidance</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your Evasion temporarily?</question>
+    <answer>Agility</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases the chance of Physical Critical Attack temporarily?</question>
+    <answer>Focus</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases the chance of Magic Critical Attack temporarily?</question>
+    <answer>Wild Magic</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases the Lung Capacity temporarily?</question>
+    <answer>Kiss of Eva</answer>
+  </trivia>
+  
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases the Resistance to Damage Falling?</question>
+    <answer>Iron Body</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your effectiveness of HP recovery magic temporarily?</question>
+    <answer>Prayer</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases your recharge recover rate of MP, temporarily?</question>
+    <answer>Mana Gain</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that increases the power of HP recovery magic temporarily?</question>
+    <answer>Heal Empower</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Augmented Active Skill that inncreases the ability to restore some HP from the damage inflicted on an enemy temporarily?(Excludes damage by skill or long-range attacks)</question>
+    <answer>Vampiric Rage</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which dye symbol increases the damage of Magic Attacks and the Success Rate of Curse Spells?</question>
+    <answer>Int</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which dye symbol increases HP, CP and HP Recovery Speed?</question>
+    <answer>Con</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which dye symbol mainly increases Attack Speed, Physical Skill Speed, Accuracy, Evasion, Critical Hit Probability and Movement Speed?</question>
+    <answer>Dex</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which dye symbol increases the amount of Physical Damage?</question>
+    <answer>Str</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which dye symbol mainly increases Magic Defense, MP and MP recovery speed?</question>
+    <answer>Men</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which dye symbol mainly increases Casting Speed, Magic Critical Hit and skill re-use time?</question>
+    <answer>Wit</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Warsmith, what's the third profession change can I have?</question>
+    <answer>Maestro</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Bounty Hunter, what's the third profession change I can have?</question>
+    <answer>Fortune Seeker</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Warcryer, what's the third profession change I can have?</question>
+    <answer>Doomcryer</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am an Overlord, what's the third profession change I can have?</question>
+    <answer>Dominator</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Tyrant, what's the third profession change I can have?</question>
+    <answer>Grand Khavatari</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Destroyer, what's the third profession change I can have?</question>
+    <answer>Titan</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Shillien Elder, what's the third profession change I can have?</question>
+    <answer>Shillien Saint</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Phantom Summoner, what's the third profession change I can have?</question>
+    <answer>Spectral Master</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Spellhowler, what's the third profession change I can have?</question>
+    <answer>Storm Screamer</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Phantom Ranger, what's the third profession change I can have?</question>
+    <answer>Ghost Sentinel</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Abyss Walker, what's the third profession change I can have?</question>
+    <answer>Ghost Hunter</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Bladedancer, what's the third profession change I can have?</question>
+    <answer>Spectral Dancer</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Shillien Knight, what's the third profession change I can have?</question>
+    <answer>Shillien Templar</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Elven Elder, what's the third profession change I can have?</question>
+    <answer>Evas Saint</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Elemental Summoner, what's the third profession change I can have?</question>
+    <answer>Elemental Master</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Spellsinger, what's the third profession change I can have?</question>
+    <answer>Mystic Muse</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Silver Ranger, what's the third profession change I can have?</question>
+    <answer>Moonlight Sentinel</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Warlord, what's the third profession change I can have?</question>
+    <answer>Dreadnought</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Gladiator, what's the third profession change I can have?</question>
+    <answer>Duelist</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Paladin, what's the third profession change I can have?</question>
+    <answer>Phoenix Knight</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Dark Avenger, what's the third profession change I can have?</question>
+    <answer>Hell Knight</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Treasure Hunter, what's the third profession change I can have?</question>
+    <answer>Adventurer</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Hawkeye, what's the third profession change I can have?</question>
+    <answer>Sagittarius</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Sorcerer, what's the third profession change I can have?</question>
+    <answer>Archmage</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Warlock, what's the third profession change I can have?</question>
+    <answer>Arcana Lord</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Bishop, what's the third profession change I can have?</question>
+    <answer>Cardinal</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Prophet, what's the third profession change I can have?</question>
+    <answer>Hierophant</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Temple Knight, what's the third profession change I can have?</question>
+    <answer>Evas Templar</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Swordsinger, what's the third profession change I can have?</question>
+    <answer>Sword Muse</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Plainswalker, what's the third profession change I can have?</question>
+    <answer>Wind Rider</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the A grade robe that gives extra M. Def?</question>
+    <answer>Tallum</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the A grade robe that gives extra P. Def?</question>
+    <answer>Dark Crystal</answer>
+  </trivia>
+
+  <trivia>
+    <question>I am a Necromancer, what's the third profession change I can have?</question>
+    <answer>Soultaker</answer>
+  </trivia>
+
+  <trivia>
+    <question>How's called the augment that boosts your M. Attack?</question>
+    <answer>Empower</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the safe enchant rate for every weapon and armor</question>
+    <answer>4</answer>
+  </trivia>
+
+  <trivia>
+    <question>I'm a Bounty Hunter, what's the third profession change I can have?</question>
+    <answer>Fortune Seeker</answer>
+  </trivia>
+
+  <trivia>
+    <question>What level does your clan have to be in order to start an Alliance?</question>
+    <answer>5</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the item that you need to get your clan to level 4?</question>
+    <answer>Alliance Manifesto</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the item that you need to get your clan to level 5?</question>
+    <answer>Seal of Aspiration</answer>
+  </trivia>
+
+  <trivia>
+    <question>How much adena does the item that gives 10.000 Clan Reputation cost?</question>
+    <answer>99000</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the item that you need to get your clan to level 3</question>
+    <answer>Blood Mark</answer>
+  </trivia>
+
+  <trivia>
+    <question>How many Clan Reputation points are needed in order to level up your clan to level 6?</question>
+    <answer>10000</answer>
+  </trivia>
+
+  <trivia>
+    <question>How many Clan Reputation points are needed in order to level up your clan to level 7?</question>
+    <answer>20000</answer>
+  </trivia>
+
+  <trivia>
+    <question>How many Clan Reputation points are needed in order to level up your clan to level 8?</question>
+    <answer>40000</answer>
+  </trivia>
+
+  <trivia>
+    <question>How much Adena do you need in order to become a noble?</question>
+    <answer>100000</answer>
+  </trivia>
+
+  <trivia>
+    <question>How much adena does a marriage cost?</question>
+    <answer>100000</answer>
+  </trivia>
+
+  <trivia>
+    <question>Which Non-custom S grade weapon has a special ability called Crt. Stun?</question>
+    <answer>Demon Splinter</answer>
+  </trivia>
+
+  <trivia>
+    <question>How much Adena does a mob drop from the Adena zone?</question>
+    <answer>700</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the strongest Raid Boss?</question>
+    <answer>Oenomaus</answer>
+  </trivia>
+
+  <trivia>
+    <question>What's the name of the Symbol Maker in the main town?</question>
+    <answer>Achim</answer>
+  </trivia>
+</event>

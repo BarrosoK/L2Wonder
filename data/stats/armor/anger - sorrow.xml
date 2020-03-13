@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='17444' name="Accessory of Anger">
+  <for>
+  <add val='500' order='0x60' stat='maxHp'/> 
+  <add val='500' order='0x60' stat='maxCp'/> 
+    <add stat='pDef' order='0x10'  val='0'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17445' name="Accessory of Sorrow">
+	  <for>
+	  <add val='500' order='0x60' stat='maxHp'/> 
+  <add val='500' order='0x60' stat='maxCp'/> 
+    <add stat='pDef' order='0x10'  val='0'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+</list>

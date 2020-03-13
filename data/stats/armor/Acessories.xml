@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CREATED -->
+<!-- BY SMALLZ -->
+<!-- 2013 -->
+<list>
+	<item id="9373" name="Refined Wizard Hat">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9374" name="Refined Jester Hat">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9375" name="Refined Romantic Chapeau">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="100" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9376" name="Refined Dapper Cap">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9377" name="Assassin's Bamboo Hat">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9378" name="Laborer Hat">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9379" name="Noblesse Oblige">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9380" name="Goddess Hair Style 1">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9381" name="Goddess Hair Style 2">
+		<for>
+			<add order="0x40" stat="pDef" val="0" /> <!-- P.Def +100-->
+			<add order="0x40" stat="mDef" val="0" /> <!-- M.Def +100 -->
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+</list>	
+<!-- CREATED -->
+<!-- BY SMALLZ -->
+<!-- 2013 -->

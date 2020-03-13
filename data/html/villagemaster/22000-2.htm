@@ -1,0 +1,92 @@
+<html><body><title>Clan's</title><br><center>
+<center>
+<table width=300 border=0>
+<tr>
+    <td width=270 height=100><img src=l2wonderlust.logo width=275 height=100 align=center></td>
+</table>
+</td>
+<table cellspacing=-1>
+<tr>
+<td><img src="L2UI.SquareBlank" width=40 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=40 height=20></td>
+</tr>
+</table>
+<center><img src="L2UI.SquareWhite" width=200 height=1></center>
+<table bgcolor=00FF00 width=204>
+<tr>
+<td><center><font color="FFFF00">* Clan Manager *</font></center></td>
+</tr>
+</table>
+<center><img src="L2UI.SquareWhite" width=200 height=1></center>
+<table cellspacing=-1>
+<tr>
+<td><img src="L2UI.SquareBlank" width=40 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=32 height=20></td>
+<td><img src="L2UI.SquareBlank" width=40 height=20></td>
+</tr>
+</table>
+<tr><td></td></tr>
+<td><img src=L2UI_CH3.bloodhood_icon01 width=34 height=33></td>
+<button value="Name your clan" width=120 height=20 back="1st_Buttons.11" fore="1st_Buttons.11"></td>
+<td><img src=L2UI_CH3.bloodhood_icon02 width=34 height=33></td>
+<table><tr>
+<td><edit var="name" width=117></td>
+<td><button value="Create Clan" action="bypass -h npc_%objectId%_create_clan $name" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+</tr></table>
+<br><img src="L2UI.SquareGray" width=250 height=1><br>
+<button value="Clan Skills" action="bypass -h npc_%objectId%_learn_clan_skills" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+<button value="Level up Clan" action="bypass -h npc_%objectId%_Chat 3" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium">
+<td><button value="Disolve clan" action="bypass -h npc_%objectId%_dissolve_clan" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+<br><img src="L2UI.SquareGray" width=250 height=1><br>
+<button value="Change Clan Leader" width=120 height=20 back="1st_Buttons.11" fore="1st_Buttons.11"></td>
+<td><img src=L2UI_CH3.bloodhood_icon03 width=34 height=33></td>
+<table><tr>
+<td><edit var="leader" width=117 height=18></td>
+<td><button value="Pass Leadership" action="bypass -h npc_%objectId%_change_clan_leader $leader" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+</tr></table>
+<br><img src="L2UI.SquareGray" width=250 height=1><br>
+<button value="Name of Academy" width=120 height=20 back="1st_Buttons.11" fore="1st_Buttons.11"></td>
+<td><img src=L2UI_CH3.bloodhood_icon02 width=34 height=33></td>
+<table><tr>
+<td><edit var="academy" width=117 height=18></td><br>
+<td><button value="Create Academy" action="bypass -h npc_%objectId%_create_academy $academy" width=120 height=20 width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+</tr></table>
+<br><img src="L2UI.SquareGray" width=250 height=1><br>
+<button value="Name your royal guard" width=120 height=20 back="1st_Buttons.11" fore="1st_Buttons.11"></td>
+<td><img src=L2UI_CH3.bloodhood_icon03 width=34 height=33></td>
+<font color="0077EE">Name for royal  |   Leader of Royal</font><center><br>
+<table><tr><td>
+<td><edit var="royalname" width=117></td> <td><edit var="royalleadername" width=117></td>
+</tr></table><br>
+<button value="Create Royal Guard" action="bypass -h npc_%objectId%_create_royal $royalname $royalleadername" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+<br><img src="L2UI.SquareGray" width=250 height=1><br>
+<button value="Name Order of Knights" width=120 height=20 back="1st_Buttons.11" fore="1st_Buttons.11"></td>
+<td><img src=L2UI_CH3.bloodhood_icon04 width=34 height=33></td>
+<font color="0077EE">Name for Order  |   Leader of Order</font><center><br>
+<table><tr>
+<td><edit var="knightname" width=117></td> <td><edit var="knightleadername" width=117></td>
+</tr></table><br>
+<button value="Create Order of Knights" action="bypass -h npc_%objectId%_create_knight $knightname $knightleadername" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+<br><img src="L2UI.SquareGray" width=250 height=1><br>
+<button value="Change leader of unit" width=120 height=20 back="1st_Buttons.11" fore="1st_Buttons.11"></td>
+<font color="0077EE">       Name of Unit    |    New leader of unit</font><center><br>
+<table><tr>
+<td><edit var="unitname" width=117></td> <td><edit var="unitlnewleader" width=117></td>
+</tr></table><br>
+<button value="Change unit leader" action="bypass -h npc_%objectId%_assign_subpl_leader $unitname $unitlnewleader" width=132 height=21 back="l2wonderlust.activemedium" fore="l2wonderlust.passivemedium"></td>
+<table><tr>
+<td><img src="L2UI_CH3.shortcut_next_over" width=16 height=16></td>
+<td><button value="Back" action="bypass -h npc_%objectId%_Chat 0" width=90 height=21 back="l2wonderlust.activesmall" fore="l2wonderlust.passivesmall"></td>
+<td><img src="L2UI_CH3.shortcut_prev_over" width=16 height=16></td>
+</tr></table>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center><br></body></html>
