@@ -345,8 +345,8 @@ public class EnterWorld extends L2GameClientPacket {
                             state3.execute();
                         } else {*/
 
-                        int amount = (int) (delivery_amount * 3);
-
+                        int amount = (int) (delivery_amount);
+/*
                         if (delivery_amount >= 250) {
                             amount += 180;
                         } else if (delivery_amount >= 100) {
@@ -358,7 +358,7 @@ public class EnterWorld extends L2GameClientPacket {
                         } else if (delivery_amount >= 20) {
                             amount += 5;
                         }
-
+*/
 
                         activeChar.addItem("delivery", delivery_item_id, amount, activeChar, true);
                         activeChar.sendMessage("You received " + amount + " donate coins from donation.");

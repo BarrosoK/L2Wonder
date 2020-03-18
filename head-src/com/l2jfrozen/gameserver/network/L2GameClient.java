@@ -1101,7 +1101,7 @@ public final class L2GameClient extends MMOClient<MMOConnection<L2GameClient>> i
 
         try {
             if (state == GameClientState.CONNECTED) {
-                if (getStats().processedPackets > 3) {
+                if (getStats().processedPackets > 6) {
                     LOGGER.warn("Client " + toString() + " - Disconnected, too many packets in non-authed state.");
                     closeNow();
                     return;
