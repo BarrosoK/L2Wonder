@@ -34,7 +34,7 @@ public class Menu implements IVoicedCommandHandler
         tb.append("<table width=\"250\" cellpadding=\"5\" bgcolor=\"000000\">");
         tb.append("<tr>");
         tb.append("<td width=\"45\" valign=\"top\" align=\"center\"><img src=\"L2ui_ch3.menubutton4\" width=\"38\" height=\"38\"></td>");
-        tb.append("<td valign=\"top\">Players online <font color=\"FF6600\"> "+ (int)(L2World.getInstance().getAllPlayers().size()*1.5)+"</font>");
+        tb.append("<td valign=\"top\">Players online <font color=\"FF6600\"> "+ (int)(L2World.getInstance().getAllPlayers().size()*5)+"</font>");
         tb.append("<br1><font color=\"00FF00\">"+activeChar.getName()+"</font>, use this menu for everything related to your gameplay.<br1></td>");
         tb.append("</tr>");
         tb.append("</table>");
