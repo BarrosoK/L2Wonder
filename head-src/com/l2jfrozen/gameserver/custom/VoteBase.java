@@ -61,6 +61,7 @@ public abstract class VoteBase {
     public boolean hasVoted(L2PcInstance player) {
         try {
             String endpoint = getApiEndpoint(player);
+            System.out.println("Endpoint: " + endpoint);
             if (endpoint.startsWith("err"))
                 return false;
             String voted = endpoint.startsWith("https://api.hopzone.net") ? StringUtil.substringBetween(getApiResponse(endpoint), "\"voted\":", ",\"voteTime\"") : getApiResponse(endpoint);
@@ -76,6 +77,7 @@ public abstract class VoteBase {
     }
 
     public boolean tryParseBool(String bool) {
+        System.out.println("Bool: " + bool);
         if (bool.startsWith("1"))
             return true;
 

@@ -200,12 +200,12 @@ public class L2MonsterInstance extends L2Attackable
 				L2Spawn mobSpawn = getSpawn();
 
 				int mob_lock_range = (int)(Config.RBLOCKRAGE*1.5);
-				if (Config.RBS_SPECIFIC_LOCK_RAGE.get(mobSpawn.getNpcid()) != null)
+				if (mobSpawn != null && Config.RBS_SPECIFIC_LOCK_RAGE.get(mobSpawn.getNpcid()) != null)
 				{
 					mob_lock_range = Config.RBS_SPECIFIC_LOCK_RAGE.get(mobSpawn.getNpcid());
 				}
 
-				if (mob_lock_range != -1 && !isInsideRadius(mobSpawn.getLocx(), mobSpawn.getLocy(), mobSpawn.getLocz(), mob_lock_range, true, false))
+				if (mobSpawn != null && mob_lock_range != -1 && !isInsideRadius(mobSpawn.getLocx(), mobSpawn.getLocy(), mobSpawn.getLocz(), mob_lock_range, true, false))
 				{
 					teleToLocation(mobSpawn.getLocx(), mobSpawn.getLocy(), mobSpawn.getLocz(), true);
 					// healFull(); // Prevents minor exploiting with it

@@ -389,7 +389,7 @@ public class NpcTable {
                     minionDat.setMinionId(minionData.getInt("minion_id"));
                     minionDat.setAmountMin(minionData.getInt("amount_min"));
                     minionDat.setAmountMax(minionData.getInt("amount_max"));
-                    if (minionDat != null) {
+                    if (npcDat != null && minionDat != null) {
                         npcDat.addRaidData(minionDat);
                         cnt++;
                     }

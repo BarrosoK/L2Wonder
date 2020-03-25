@@ -3631,6 +3631,11 @@ public final class Config {
 
     public static HashMap<Integer, Integer> RBS_SPECIFIC_LOCK_RAGE;
 
+    public static int MARGUERITE_RESP_FIRST;
+    public static int MARGUERITE_RESP_SECOND;
+    public static int MARGUERITE_WAIT_TIME;
+    public static float MARGUERITE_POWER_MULTIPLIER;
+
     public static boolean ALLOW_DIRECT_TP_TO_BOSS_ROOM;
     public static boolean ANTHARAS_OLD;
     public static int ANTHARAS_CLOSE;
@@ -3772,6 +3777,12 @@ public final class Config {
 
             // ============================================================
             ALLOW_DIRECT_TP_TO_BOSS_ROOM = Boolean.valueOf(bossSettings.getProperty("AllowDirectTeleportToBossRoom", "False"));
+
+            // Marguerite
+            ANTHARAS_RESP_FIRST = Integer.parseInt(bossSettings.getProperty("MargueriteRespFirst", "6"));
+            ANTHARAS_RESP_SECOND = Integer.parseInt(bossSettings.getProperty("MargueriteRespSecond", "0"));
+            ANTHARAS_POWER_MULTIPLIER = Float.parseFloat(bossSettings.getProperty("MargueritePowerMultiplier", "1.0"));
+
             // Antharas
             ANTHARAS_OLD = Boolean.valueOf(bossSettings.getProperty("AntharasOldScript", "true"));
             ANTHARAS_CLOSE = Integer.parseInt(bossSettings.getProperty("AntharasClose", "1200"));

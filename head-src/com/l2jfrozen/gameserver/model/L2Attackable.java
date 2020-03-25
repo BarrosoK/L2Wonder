@@ -1364,6 +1364,7 @@ public class L2Attackable extends L2NpcInstance {
                 getNpcId() == 13048 ||
                 getNpcId() == 660000 ||
                 getNpcId() == 13047 ||
+                getNpcId() == 680000 ||
                 getNpcId() == 29001) {
             categoryDropChance = basecategoryDropChance / categoryDrops.getAllDrops().size();
             lastAttacker.sendMessage(".");

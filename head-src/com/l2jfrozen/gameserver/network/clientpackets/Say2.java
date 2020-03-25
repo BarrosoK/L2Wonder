@@ -29,6 +29,7 @@ import java.util.logging.LogRecord;
 
 import com.l2jfrozen.gameserver.datatables.sql.NpcTable;
 import com.l2jfrozen.gameserver.datatables.sql.SpawnTable;
+import com.l2jfrozen.gameserver.gui.ConsoleTab;
 import com.l2jfrozen.gameserver.managers.GrandBossManager;
 import com.l2jfrozen.gameserver.managers.RaidBossSpawnManager;
 import com.l2jfrozen.gameserver.model.actor.instance.L2NpcInstance;
@@ -263,6 +264,7 @@ public final class Say2 extends L2GameClientPacket {
 
 
         final CreatureSay cs = new CreatureSay(activeChar.getObjectId(), _type, activeChar.getName(), _text);
+        String nearTown = MapRegionTable.getInstance().getClosestTownName(activeChar);
         switch (_type) {
             case TELL:
 
@@ -332,7 +334,7 @@ public final class Say2 extends L2GameClientPacket {
                 // Flood protect Say
                 if (!getClient().getFloodProtectors().getGlobalChat().tryPerformAction("global chat"))
                     return;
-
+                  ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.ShoutChat, activeChar.getName() + ": " + _text, nearTown);
                 if (Config.DEFAULT_GLOBAL_CHAT.equalsIgnoreCase("on") || Config.DEFAULT_GLOBAL_CHAT.equalsIgnoreCase("gm") && activeChar.isGM()) {
                     if (Config.GLOBAL_CHAT_WITH_PVP) {
                         if ((activeChar.getPvpKills() < Config.GLOBAL_PVP_AMOUNT) && !activeChar.isGM()) {
@@ -437,6 +439,7 @@ public final class Say2 extends L2GameClientPacket {
                     }
 
                 }
+                ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.TradeChat, activeChar.getName() + ": " + _text, nearTown);
                 break;
             case ALL:
 
@@ -474,20 +477,39 @@ public final class Say2 extends L2GameClientPacket {
                     }
                 }
                 activeChar.sendPacket(cs);
-
+                ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.AllChat,
+                        "[Somewhere near " + nearTown + "] " + activeChar.getName() + ": " + _text,
+                        nearTown,
+                        activeChar.getName());
                 break;
             case CLAN:
                 if (activeChar.getClan() != null) {
+                    ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.ClanChat,
+                            "[" + activeChar.getClan().getName() + "] " + activeChar.getName() + ": " + _text,
+                            activeChar.getClan().getName(),
+                            activeChar.getName());
+
                     activeChar.getClan().broadcastToOnlineMembers(cs);
                 }
                 break;
             case ALLIANCE:
                 if (activeChar.getClan() != null) {
+                    String allyName = activeChar.getClan().getAllyName();
+                    ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.AllyChat,
+                            "[" + allyName + "] " + activeChar.getName() + ": " + _text,
+                            allyName,
+                            activeChar.getName());
+
                     activeChar.getClan().broadcastToOnlineAllyMembers(cs);
                 }
                 break;
             case PARTY:
                 if (activeChar.isInParty()) {
+                    String leaderName = activeChar.getParty().getLeader().getName();
+                    ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.PartyChat,
+                            "[" + leaderName + "'s party] " + activeChar.getName() + ": " + _text,
+                            leaderName,
+                            activeChar.getName());
                     activeChar.getParty().broadcastToPartyMembers(cs);
                 }
                 break;
@@ -520,7 +542,7 @@ public final class Say2 extends L2GameClientPacket {
 
                         if (player == null)
                             continue;
-
+                        ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.HeroChat, activeChar.getName() + ": " + _text);
                         player.sendPacket(cs);
                     }
                 } else if (activeChar.isHero()) {
@@ -534,6 +556,7 @@ public final class Say2 extends L2GameClientPacket {
                             continue;
 
                         // Like L2OFF if player is blocked can't read the message
+                        ConsoleTab.appendMessage(ConsoleTab.ConsoleFilter.HeroChat, activeChar.getName() + ": " + _text);
                         if (!player.getBlockList().isInBlockList(activeChar.getName()))
                             player.sendPacket(cs);
                     }

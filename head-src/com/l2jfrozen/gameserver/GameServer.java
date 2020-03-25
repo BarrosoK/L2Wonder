@@ -32,10 +32,12 @@ import java.util.logging.LogManager;
 import com.l2jfrozen.gameserver.custom.PvpZonesData;
 import com.l2jfrozen.gameserver.custom.VoteRewardData;
 import com.l2jfrozen.gameserver.custom.VoteSpam;
+import com.l2jfrozen.gameserver.gui.ServerGui;
 import com.l2jfrozen.gameserver.managers.*;
 import com.l2jfrozen.gameserver.model.entity.*;
 import com.l2jfrozen.gameserver.model.scripts.RegisterSiege.RegisterSiege;
 import com.l2jfrozen.gameserver.model.scripts.Services;
+import org.apache.log4j.Appender;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
@@ -131,6 +133,7 @@ import com.l2jfrozen.util.IPv4Filter;
 import com.l2jfrozen.util.Memory;
 import com.l2jfrozen.util.Util;
 import com.l2jfrozen.util.database.L2DatabaseFactory;
+import org.apache.log4j.spi.LoggingEvent;
 
 public class GameServer {
     private static Logger LOGGER = Logger.getLogger("Loader");
@@ -142,7 +145,6 @@ public class GameServer {
     public static final Calendar dateTimeServerStarted = Calendar.getInstance();
 
     public static void main(final String[] args) throws Exception {
-
         PropertyConfigurator.configure(FService.LOG_CONF_FILE);
         ServerType.serverMode = ServerType.MODE_GAMESERVER;
 
@@ -156,6 +158,7 @@ public class GameServer {
         // Create LOGGER folder
         File logFolder = new File(LOG_FOLDER);
         logFolder.mkdir();
+
 
         // Create input stream for LOGGER file -- or store file data into memory
 
@@ -181,7 +184,12 @@ public class GameServer {
         // Load GameServer Configs
         Config.load();
 
-        Util.printSection("Database");
+        Util.printSection("Gui");
+        ServerGui gui = new ServerGui();
+        // gui.init();
+
+
+        Util.printSection("Databasee");
         L2DatabaseFactory.getInstance();
         LOGGER.info("L2DatabaseFactory: loaded.");
 

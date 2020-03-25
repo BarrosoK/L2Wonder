@@ -366,8 +366,8 @@ public class QueenAnt extends Quest implements Runnable
 	{
 		final int npcId = npc.getNpcId();
 		if (npcId == NURSE)
-		{
-			npc.getAI().setIntention(CtrlIntention.AI_INTENTION_IDLE, null, null);
+		{			npc.getAI().setIntention(CtrlIntention.AI_INTENTION_IDLE, null, null);
+
 			return null;
 		}else if (npc.getNpcId() == QUEEN)
 		{

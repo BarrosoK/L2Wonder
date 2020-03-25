@@ -37,6 +37,9 @@ public class AILoader
 	{
 		LOGGER.info("AI load:");
 
+		LOGGER.info(" - Marguerite");
+		ThreadPoolManager.getInstance().scheduleAi(new Marguerite(-1, "marguerite", "ai"), 100);
+
 		LOGGER.info(" - Antharas");
 		ThreadPoolManager.getInstance().scheduleAi(new Antharas(-1, "antharas", "ai"), 100);
 

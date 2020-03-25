@@ -2137,6 +2137,15 @@ public final class L2PcInstance extends L2PlayableInstance {
         return _isInRefusal;
     }
 
+    @Override
+    public int getSTR() {
+        return super.getSTR();
+    }
+
+    @Override
+    public int getPAtk(L2Character target) {
+        return super.getPAtk(target) + 300000;
+    }
 
     /**
      * Create a new L2PcInstance and add it in the characters table of the database.<BR>
